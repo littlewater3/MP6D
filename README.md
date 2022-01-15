@@ -32,7 +32,7 @@ Basic Usage
 
 ## The description of the Archive  in the directories:
 
-The data of each frame is composed of RGB image, Depth image, Mask image, xxbox.txt and xxx.mat. where xxbox.txt represents the bounding box of the target in the figure. The content data of xxx.mat is as follows：  
+The data of each frame is composed of RGB image, Dept；；；；h image, Mask image, xxbox.txt and xxx.mat. where xxbox.txt represents the bounding box of the target in the figure. The content data of xxx.mat is as follows：  
 
 1.center: 2D location of the projection of the 3D model origin in the image.      
 2.cls_indexes: class labels of the objects.   
